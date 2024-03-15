@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c92c78a0.css",
-    "main.js": "/static/js/main.f4faaf5f.js",
+    "main.css": "/static/css/main.893829dd.css",
+    "main.js": "/static/js/main.cae14082.js",
     "static/media/tour_package_bg.png": "/static/media/tour_package_bg.34090607a220d9f009cb.png",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/about-bg-image.png": "/static/media/about-bg-image.9b2497d01c6441fd4cde.png",
@@ -38,6 +38,9 @@
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
     "static/media/tour-2.jpg": "/static/media/tour-2.6098b954946ee9a4f676.jpg",
     "static/media/about-2.jpg": "/static/media/about-2.2988c5bf34c45db0f9ec.jpg",
+    "static/media/testimonial-4.png": "/static/media/testimonial-4.14fe3e463fccd51a6665.png",
+    "static/media/testimonial-3.png": "/static/media/testimonial-3.71a29b1aa3a308007855.png",
+    "static/media/testimonial-5.png": "/static/media/testimonial-5.00035a9e3efb19a2a768.png",
     "static/media/about-1.jpg": "/static/media/about-1.cb63440787c88b452a79.jpg",
     "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/icomoon.eot": "/static/media/icomoon.446314d5a8ccaeb063d1.eot",
@@ -46,11 +49,11 @@
     "static/media/icomoon.ttf?tin97q": "/static/media/icomoon.6cc99274b48a8e88ac6f.ttf",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/index.html",
-    "main.c92c78a0.css.map": "/static/css/main.c92c78a0.css.map",
-    "main.f4faaf5f.js.map": "/static/js/main.f4faaf5f.js.map"
+    "main.893829dd.css.map": "/static/css/main.893829dd.css.map",
+    "main.cae14082.js.map": "/static/js/main.cae14082.js.map"
   },
   "entrypoints": [
-    "static/css/main.c92c78a0.css",
-    "static/js/main.f4faaf5f.js"
+    "static/css/main.893829dd.css",
+    "static/js/main.cae14082.js"
   ]
 }
